@@ -1,0 +1,21 @@
+Customer,Vehicle,Test Drive Date,Status
+Customer_6,Vehicle_14,2025-08-05,Canceled
+Customer_2,Vehicle_7,2025-08-05,Canceled
+Customer_2,Vehicle_2,2025-08-05,Scheduled
+Customer_17,Vehicle_4,2025-08-05,Canceled
+Customer_13,Vehicle_5,2025-08-05,Completed
+Customer_17,Vehicle_12,2025-08-05,Canceled
+Customer_3,Vehicle_2,2025-08-05,Scheduled
+Customer_3,Vehicle_7,2025-08-05,Scheduled
+Customer_1,Vehicle_19,2025-08-05,Canceled
+Customer_13,Vehicle_15,2025-08-05,Scheduled
+Customer_15,Vehicle_12,2025-08-05,Canceled
+Customer_19,Vehicle_17,2025-08-05,Canceled
+Customer_4,Vehicle_6,2025-08-05,Canceled
+Customer_1,Vehicle_16,2025-08-05,Completed
+Customer_6,Vehicle_7,2025-08-05,Scheduled
+Customer_1,Vehicle_17,2025-08-05,Completed
+Customer_8,Vehicle_15,2025-08-05,Completed
+Customer_8,Vehicle_17,2025-08-05,Canceled
+Customer_2,Vehicle_1,2025-08-05,Completed
+Customer_9,Vehicle_10,2025-08-05,Scheduled
