@@ -1,0 +1,21 @@
+Vehicle_Name__c,Vehicle_Model__c,Stock_Quantity__c,Price__c,Dealer__c,Status__c
+SlateGray Race,Truck,31,29759.84,Dealer_4,Discontinued
+LightYellow Be,Truck,19,41175.97,Dealer_6,Discontinued
+Lime Himself,Sedan,42,59940.73,Dealer_1,Out of Stock
+Teal Store,Sedan,7,35695.24,Dealer_6,Out of Stock
+LightCyan Wear,Truck,46,28845.68,Dealer_1,Available
+PaleTurquoise Growth,Truck,47,45104.7,Dealer_5,Discontinued
+Aquamarine Chance,Sedan,44,34749.85,Dealer_9,Out of Stock
+BlanchedAlmond Daughter,SUV,17,21915.45,Dealer_5,Available
+YellowGreen Southern,SUV,3,24871.88,Dealer_2,Out of Stock
+SeaGreen Court,EV,3,48721.42,Dealer_6,Out of Stock
+DarkMagenta Boy,Truck,44,57724.1,Dealer_1,Available
+DimGray Race,SUV,18,55829.93,Dealer_5,Out of Stock
+Plum Plant,SUV,8,45347.52,Dealer_9,Out of Stock
+Gray Forward,SUV,13,51078.62,Dealer_9,Out of Stock
+Wheat Across,EV,40,21070.77,Dealer_4,Available
+MediumPurple Data,SUV,32,30332.08,Dealer_4,Available
+PaleTurquoise Sometimes,Truck,42,58241.2,Dealer_5,Discontinued
+OrangeRed Glass,SUV,38,35862.53,Dealer_7,Available
+DarkBlue Property,Truck,43,35836.34,Dealer_3,Discontinued
+Pink Option,EV,34,50550.24,Dealer_9,Available
