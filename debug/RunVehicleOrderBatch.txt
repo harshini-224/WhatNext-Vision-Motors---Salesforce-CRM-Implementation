@@ -1,0 +1,4 @@
+// 🔁 Run this in Developer Console → Execute Anonymous Window
+
+VehicleOrderBatch job = new VehicleOrderBatch();
+Database.executeBatch(job, 50);
