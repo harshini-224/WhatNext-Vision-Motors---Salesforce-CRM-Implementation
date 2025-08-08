@@ -40,6 +40,7 @@ WhatNext Vision Motors CRM is a custom Salesforce application developed to autom
 - Batch job scheduled to run daily at 12:00 PM via Scheduler class.
 
 ✅ Conclusion:
+
 This project demonstrates a scalable and intelligent CRM solution built on Salesforce. It automates key business operations and ensures a seamless customer experience.
 
 **Thank you!**  
